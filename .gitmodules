@@ -1,3 +1,3 @@
 [submodule "from-scripting-to-software-with-python-book.wiki"]
 	path = from-scripting-to-software-with-python-book.wiki
-	url = ./from-scripting-to-software-with-python-book.wiki
+	url = https://github.com/stephensanwo/from-scripting-to-software-with-python-book.wiki
